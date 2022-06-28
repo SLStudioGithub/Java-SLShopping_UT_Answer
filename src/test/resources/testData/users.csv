@@ -1,0 +1,3 @@
+ID, EMAIL, NAME, PASSWORD
+1, admin@example.com, 管理者太郎, $2a$10$BplfjrJzU.kS2rXJSIRUiu4A6kJ7cXeqzBWndxLuixCvBip0GZQj2
+2, staff@example.com, アシスタント次郎, $2a$10$BplfjrJzU.kS2rXJSIRUiu4A6kJ7cXeqzBWndxLuixCvBip0GZQj2

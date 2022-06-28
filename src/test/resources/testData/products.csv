@@ -1,0 +1,4 @@
+ID, NAME, IMAGE, DESCRIPTION, PRICE, HEIGHT, LENGTH, WIDTH, WEIGHT,BRAND_ID, CATEGORY_ID
+1, 商品A, desktop.jpeg, 商品の説明, 200000, 0, 0, 0, 0, 1, 1
+2, 商品B, laptop.jpeg, 商品の説明, 150000, 0, 0, 0, 0, 1, 1
+3, 商品C, tablet.jpeg, 商品の説明, 50000, 0, 0, 0, 0, 1, 1
